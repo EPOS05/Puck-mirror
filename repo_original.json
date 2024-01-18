@@ -1,11 +1,11 @@
 {
 	"RepositoryName": "Puck",
-	"RepositoryDescription": "by roeegh - mirror by EPOS",
+	"RepositoryDescription": "by roeegh",
 	"RepositoryAuthor": "roeegh",
-	"RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/assets/Icon.png",
+	"RepositoryIcon": "https://puck.roeegh.com/assets/Icon.png",
 	"RepositoryWebsite": "https://puck.roeegh.dev",
 	"Default": {
-		"HeaderImage": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/assets/Banner.png",
+		"HeaderImage": "https://puck.roeegh.com/assets/Banner.png",
 		"Author": {
 			"Label": "roeegh",
 			"Links": [
@@ -25,16 +25,16 @@
 			"Caption": "Change the Focus module to 1 width and hide the name of all pre-built focus modes.",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Better%20Focus/Images/Icon.png",
+			"Icon": "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Icon.png",
 			"Screenshot": [
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Better%20Focus/Images/Focus%20On.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Better%20Focus/Images/Focus%20Off.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Better%20Focus/Images/Focus%20List.png"
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20On.png",
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20Off.png",
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20List.png"
 			],
 			"Releases": [
 				{
 					"Version": "1.1",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Better%20Focus/Better%20Focus.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Better%20Focus/Better%20Focus.misaka",
 					"Description": "🌸 Fix for iOS 15"
 				}
 			],
@@ -47,12 +47,12 @@
 			"Caption": "Change the color of your badges.\n\nNotice: This will also affect any other part of the OS that uses the systemRedColor. This includes the low battery icon, cancel buttons, etc.",
 			"MinIOSVersion": "16.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Bajji/Images/Icon.png",
-			"Screenshot": ["https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Bajji/Images/Badges.png"],
+			"Icon": "https://puck.roeegh.com/Tweaks/Bajji/Images/Icon.png",
+			"Screenshot": ["https://puck.roeegh.com/Tweaks/Bajji/Images/Badges.png"],
 			"Releases": [
 				{
 					"Version": "2.0",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Bajji/Bajji.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Bajji/Bajji.misaka",
 					"Description": "🌸 Custom colors"
 				}
 			],
@@ -65,16 +65,16 @@
 			"Caption": "Change all available colors on your device.",
 			"MinIOSVersion": "16.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Palette/Images/Icon.png",
+			"Icon": "https://puck.roeegh.com/Tweaks/Palette/Images/Icon.png",
 			"Screenshot": [
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Palette/Images/Calculator.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Palette/Images/Settings.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Palette/Images/ControlCenter.png"
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Calculator.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Settings.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/ControlCenter.png"
 			],
 			"Releases": [
 				{
 					"Version": "1.1",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Palette/Palette.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Palette/Palette.misaka",
 					"Description": "🌸 Fixed Yellow color not working in advanced settings"
 				}
 			],
@@ -87,16 +87,16 @@
 			"Caption": "Make your statusbar more useful with the ability to show more information.",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Joutai/Images/Icon.png",
+			"Icon": "https://puck.roeegh.com/Tweaks/Joutai/Images/Icon.png",
 			"Screenshot": [
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Joutai/Images/Home.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Joutai/Images/CC.png",
-				"https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Joutai/Images/Settings.png"
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Home.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/CC.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Settings.png"
 			],
 			"Releases": [
 				{
 					"Version": "1.5",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Joutai/Joutai.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Joutai/Joutai.misaka",
 					"Description": "🌸 Added Extended Time module"
 				}
 			],
@@ -109,12 +109,12 @@
 			"Caption": "Fixes the bug where App Store stops functioning on TrollStore devices.\n\nCredit: The fix was found by sudo and Too Baked For Pie from CyPwn.",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Hotai/Images/Icon.png",
+			"Icon": "https://puck.roeegh.com/Tweaks/Hotai/Images/Icon.png",
 			"Screenshot": [],
 			"Releases": [
 				{
 					"Version": "1.0",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Hotai/Hotai.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Hotai/Hotai.misaka",
 					"Description": "🌸 Initial Release"
 				}
 			],
@@ -127,11 +127,11 @@
 			"Caption": "Removes the rdar bar without changing resolution.\n\nNote: These changes are persistent.",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6.1",
-			"Icon": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Daru/Images/Icon.png",
+			"Icon": "https://puck.roeegh.com/Tweaks/Daru/Images/Icon.png",
 			"Releases": [
 				{
 					"Version": "2.0",
-					"Package": "https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/Tweaks/Daru/Daru.misaka",
+					"Package": "https://puck.roeegh.com/Tweaks/Daru/Daru.misaka",
 					"Description": "🌸 Complete rewrite for stability"
 				}
 			],
