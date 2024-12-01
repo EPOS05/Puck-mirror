@@ -19,7 +19,7 @@
 Add the following repository to Misaka:
 
 ```
-https://puck.roeegh.dev/repo.json
+https://raw.githubusercontent.com/EPOS05/Puck-mirror/main/repo.json
 ```
 
 # How to customize?
